@@ -250,7 +250,7 @@ p{
     margin-top: 0;           
     position: relative;
     overflow: hidden;
-    background-image: url('/project1/images/image1.jpg');
+    background-image: url('project1/images/image1.jpg');
     background-repeat: no-repeat;
    background-size: 150% auto;      
     background-position:center 30%;
